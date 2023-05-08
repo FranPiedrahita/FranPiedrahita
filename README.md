@@ -25,11 +25,14 @@
     <h2>Projects</h2>
     <a  href="https://chiccloset-service.web.app/home">🟢 ChicCloset</a>
  <a  href="https://inmobate-inmobate.vercel.app/">🟣 Inmobate</a>
+     <a  href="https://github.com/FranPiedrahita/deploy-Pi">🟢 Pokemon App</a>
   </div>
   <div align="left">
     <h2>Contact Me</h2>
        <a  href="https://www.linkedin.com/in/francisco-piedrahita-24aba5254/"> <img src="https://www.pngplay.com/wp-content/uploads/9/Linkedin-Free-PNG.png" title="Git" **alt="Git" width="40" height="40" color="white"/></a>
        <a  href="https://wa.me/593983888551"> <img src="https://cdn-icons-png.flaticon.com/512/124/124034.png?w=740&t=st=1683243856~exp=1683244456~hmac=778aa7c39020858d8de7d4019f777d3e8c9467d8fd86bcd1d17ac0d99b6510b8" title="Git" **alt="Git" width="40" height="40" color="white"/></a>
+        <a  href="https://mail.google.com/"> <img src="https://e7.pngegg.com/pngimages/292/387/png-clipart-gmail-computer-icons-email-graphics-gmail-angle-rectangle.png" title="Git" **alt="Git" width="40" height="40" color="white"/></a>
+      <h3>franciscopiedrahita215@gmail.com</h3>
   </div>
   </div>
   
